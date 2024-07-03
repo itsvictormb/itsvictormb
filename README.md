@@ -27,4 +27,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Victor_Barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsvictormb/)](https://www.linkedin.com/in/itsvictormb/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victormalta1@outlook.com)](mailto:victormalta1@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-victormalta1@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victormalta1@outlook.com)](mailto:victormalta1@outlook.com)
